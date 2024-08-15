@@ -14,6 +14,6 @@ My playlists consists of many things:
 - Playboi Carti
 - Kendrick Lamar
 
-There are many more, but this is my list of "Most Listened to Artist" in Spotify. 
+There are many more, but this is my list of "Most Listened to Artist" on Spotify. 
 # Favorite Summer Food
 Summer is a time of enjoyment, but that also brings in 100 degree weather. The best way to combat this is to enjoy some cold ice cream. It's relatively cheap, it's easy to eat and prepare, and it's perfect for the summer heat. That's why it's my favorite.
