@@ -1,8 +1,10 @@
 # My Summer in Markdown
 # Introduction
-My name is Ryan and this is my first project on Markdown. 
+My name is Ryan and this is my first project on Markdown, and my first project in AP CSA.
 # Expectations
-From this class, I can expect more understanding of computers, coding, and what it does for us. Since I took the recquired class before this one, I can say I know a little bit about computers. I also expect a good score on my AP Exam. 
+From this class, I can expect to increase my understanding of computers, coding, and what it does for us. Since I took the recquired class before this one, I can say I know a little bit about computers.
+
+I also expect a good score on my AP Exam that represents my understanding. 
 # Goals
 Throughout this entire school year, my goal is to just pass my classes. Countless amounts of people have said that Junior year is going to be the hardest out of the 4 years in high school, and for that reason, I also want to find out the best way to navigate through. 
 # Summer Playlist
